@@ -1,0 +1,6 @@
+interface:
+  display_name: "自然中文表达"
+  short_description: "沿用学长报告中朴实、具体的表达，减少生硬套话；只管语气，不固定排版"
+  default_prompt: "请用 $natural-chinese-writing 写这段内容，表达自然具体，保留事实，排版按本次任务要求。"
+policy:
+  allow_implicit_invocation: true
